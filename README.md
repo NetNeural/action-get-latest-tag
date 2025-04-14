@@ -1,5 +1,7 @@
 # Action Get Latest Tag
 
+Forked from [actions-ecosystem/action-get-latest-tag](https://github.com/actions-ecosystem/action-get-latest-tag) because, for some reason, they have not merged any of the numerous PR submitted to update the output to use the Env Var, as per [GitHub](https://github.blog/changelog/2022-10-11-github-actions-deprecating-save-state-and-set-output-commands/)
+
 [![actions-workflow-lint][actions-workflow-lint-badge]][actions-workflow-lint]
 [![release][release-badge]][release]
 [![license][license-badge]][license]
